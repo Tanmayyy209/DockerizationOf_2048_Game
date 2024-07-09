@@ -1,8 +1,8 @@
 # Overview
 This project involves the Dockerization and deployment of the popular 2048 game on AWS Elastic Beanstalk. The 2048 game is a single-player sliding tile puzzle game originally created by Gabriele Cirulli. The project will demonstrate the process of containerizing the game using Docker and deploying the containerized application to AWS Elastic Beanstalk.
 # Objectives
-                                      1.	Containerization:
-o	Create a Dockerfile to containerize the 2048 game application.
+ 1.	Containerization:
+o	Create a Dockerfile to containerize the 2048 game application.<br/>
 o	Build a Docker image from the Dockerfile.
 2.	Repository Setup:
  o	Pull the 2048 game source code from a GitHub repository.
