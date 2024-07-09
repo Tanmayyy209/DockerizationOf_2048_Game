@@ -3,14 +3,14 @@ This project involves the Dockerization and deployment of the popular 2048 game 
 # Objectives
  1.	Containerization:
 o	Create a Dockerfile to containerize the 2048 game application.<br/>
-o	Build a Docker image from the Dockerfile.
+o	Build a Docker image from the Dockerfile.<br/>
 2.	Repository Setup:
- o	Pull the 2048 game source code from a GitHub repository.
- o	Ensure the application runs locally inside a Docker container.
+ o	Pull the 2048 game source code from a GitHub repository.</br>
+ o	Ensure the application runs locally inside a Docker container.</br>
 3.	AWS Elastic Beanstalk Deployment:
- o	Configure AWS Elastic Beanstalk for deploying Docker applications.
- o	Deploy the Dockerized 2048 game to AWS Elastic Beanstalk.
- o	Verify the successful deployment and functionality of the game.
+ o	Configure AWS Elastic Beanstalk for deploying Docker applications.</br>
+ o	Deploy the Dockerized 2048 game to AWS Elastic Beanstalk.</br>
+ o	Verify the successful deployment and functionality of the game.</br>
 # Screenshots
 ![20481](https://github.com/Tanmayyy209/DockerizationOf_2048_Game/assets/114731714/ecdd3def-476d-4abb-b9f2-055b4b9c2085)
 ![20482](https://github.com/Tanmayyy209/DockerizationOf_2048_Game/assets/114731714/571f6710-8ed8-4b28-9b52-c4b147466497)
